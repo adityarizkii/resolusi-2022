@@ -1,5 +1,6 @@
 RESOLUSI 2022
-- Bisa pakai GitHub
-- Banyakin Project
-- Belajar React
-- Membuat akun LinkedIn
+- Belajar CSS
+  ^ CSS Animation
+  ^ SASS
+- Belajar Javascript
+  ^ JS Dasar
